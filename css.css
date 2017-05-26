@@ -1,0 +1,12 @@
+#canvas, #canvas3{
+    border: 3px solid red;
+    margin: 50px;
+    background: url("img/setka.png");
+    width: 400px;
+    height: 200px;
+}
+
+#canvas2{
+    border: 3px solid red;
+    margin: 50px;
+}
